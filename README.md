@@ -1,7 +1,6 @@
 # Birthday Card
 
 <html>
-    <head>What to Write in a Birthday Card</head>
   <body>
     <h1><strong>What to Write in a Birthday Card</strong></h1>
       <figure>
@@ -13,20 +12,20 @@
     <h2>Thank Them for Being Your Friend</h2>
     <p>It's not everyday when someone decides your a great friend to have. Thank them for being your frined because you're greatful they're your friend! You can even put it the other way and say how thankful you are to be their friend.</p>
     <p>Examples:
-    <br>Thank you for being my friend.</br>
-    <br>I am so grateful you're my friend.</br>
-    <br>I'm very thankful to be your friend.</br></p>
+    <br>Thank you for being my friend.
+    <br>I am so grateful you're my friend.
+    <br>I'm very thankful to be your friend.</p>
     <h3>Give Them a "Title"</h3>
       <p>Were they your science project buddy? Maybe worked on a project with you? Express how great of a science project buddy they were to you!</p>
       <p>Examples
-      <br>You were a great Biology partner!</br>
-      <br>Thanks for being a wonderful desk partner!</br></p>
+      <br>You were a great Biology partner!
+      <br>Thanks for being a wonderful desk partner!</p>
     <h4>Wish Them a Happy Birthday</h4>
       <p>It's their birthday! Tell them that you hope it'll be a great day for them, or wish them a great birthday. It's their special day and you wouldn't want it to be bad!</p>
       <p>Examples:
-      <br>I hope you have a wonderful birthday.</br>
-      <br>Hope you have an amazing day!</br>
-      <br>Hope your speical day goes great!</br></p>
+      <br>I hope you have a wonderful birthday.
+      <br>Hope you have an amazing day!
+      <br>Hope your speical day goes great!</p>
       <h5>Write the Card</h5>
       <p>Make sure the write the card! Elborate on any of the topics above and show your friend how much you care about them.</p>
       <figure>
