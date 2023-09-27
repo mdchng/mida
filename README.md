@@ -1,5 +1,5 @@
 # Birthday Card
-<!DOCTYPE html>
+
 <html>
     <head>What to Write in a Birthday Card</head>
   <body>
